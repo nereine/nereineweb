@@ -1,2 +1,2 @@
 # 2024 Blog Posts
-### Please wait a moment
+Please wait a moment
