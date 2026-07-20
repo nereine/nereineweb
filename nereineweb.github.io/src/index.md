@@ -48,13 +48,13 @@ A compact public-data interface created to make national statistics more accessi
 
 [Open project →](/covid-19/)
 
-### [Python Monopoly Game](/monopoly/)
+### [Python Monopoly Game](https://github.com/nereine/python-monopoly-game)
 
 **Python Project · Education Notes**
 
 A simplified, text-based implementation of the Monopoly board game using Python.
 
-[Open Project →](/monopoly/)
+[Open Project →](https://github.com/nereine/python-monopoly-game)
 
 ### [Market and Technology Notes](/blog/)
 
