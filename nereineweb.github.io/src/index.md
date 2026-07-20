@@ -2,7 +2,7 @@ Markets · Finance · Technology
 
 # Notes, projects and things I’m learning.
 
-I’m Eine. I’m currently studying Investment Management and have a background in derivatives trading. This is where I keep some of my work, research and coding projects.
+Hello there, I’m Eine! I’m currently studying Investment Management and have a background in derivatives trading. This is where I keep some of my work, research and coding projects.
 
 [View my projects](#selected-work) · [Read my notes](/blog/)
 
@@ -47,6 +47,14 @@ An applied introduction to stationary and non-stationary financial data using th
 A compact public-data interface created to make national statistics more accessible.
 
 [Open project →](/covid-19/)
+
+### [Python Monopoly Game](/monopoly/)
+
+**Python Project · Education Notes**
+
+A simplified, text-based implementation of the Monopoly board game using Python.
+
+[Open Project →](/monopoly/)
 
 ### [Market and Technology Notes](/blog/)
 
