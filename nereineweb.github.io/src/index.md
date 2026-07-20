@@ -1,32 +1,32 @@
-Markets · Research · Technology
+Markets · Finance · Technology
 
-# Making sense of complex systems.
+# Notes, projects and things I’m learning.
 
-I’m Eine — an investment professional and builder exploring financial markets through research, data and code.
+I’m Eine. I’m currently studying Investment Management and have a background in derivatives trading. This is where I keep some of my work, research and coding projects.
 
-[Explore my work](#selected-work) · [Read my notes](/blog/)
+[View my projects](#selected-work) · [Read my notes](/blog/)
 
 ---
 
 ## About
 
-### Where financial insight meets technical craft.
+### A little about me
 
-I’m interested in the point where investment judgement, quantitative evidence and well-designed technology meet. This website is a living collection of research notes, experiments and projects built from that perspective.
+My interests sit somewhere between financial markets and technology. I mainly use this website to document what I have been learning and to share projects I have worked on.
 
-My work spans derivatives, portfolio analysis, econometrics and Python — always with the same objective: to turn complexity into a decision that can be understood and acted upon.
+I have experience in derivatives trading and am currently learning more about portfolio management, econometrics and Python. Some of the work here comes from university projects, while the rest comes from my own curiosity.
 
-### Evidence first
+### Research
 
-Start with the data, question the assumptions and keep the conclusion proportionate to the available evidence.
+I enjoy working with financial data and testing ideas, although I am still learning and improving the way I approach research.
 
-### Clarity matters
+### Communication
 
-Good analysis should make a difficult idea easier to understand, rather than merely making it more complicated.
+I try to explain my work as clearly as possible, including the assumptions and limitations behind it.
 
-### Always building
+### Projects
 
-Research becomes more valuable when it is translated into a tool, model or repeatable process.
+Building small projects helps me understand ideas more practically. This website is also a place for me to keep track of that progress.
 
 ---
 
