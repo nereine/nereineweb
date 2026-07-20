@@ -32,13 +32,13 @@ Building small projects helps me understand ideas more practically. This website
 
 ## Selected Work
 
-### [Testing Time-Series Data](/blog/2022/adf/)
+### [Testing Time-Series Data](/blog/adf/)
 
 **Quantitative Research · Python**
 
 An applied introduction to stationary and non-stationary financial data using the Augmented Dickey–Fuller test.
 
-[View research →](/blog/2022/adf/)
+[View research →](/blog/adf/)
 
 ### [Thailand COVID-19 Tracker](/covid-19/)
 
@@ -60,11 +60,11 @@ Longer-form thinking on markets, technology, data and the systems connecting the
 
 ## Latest Notes
 
-### [Time-Series Data Testing via Python](/blog/2022/adf/)
+### [Time-Series Data Testing via Python](/blog/adf/)
 
 Quantitative Research · 2022
 
-### [New World Order](/blog/2021/nwo/)
+### [New World Order](/blog/nwo/)
 
 Markets and Society · 2021
 
