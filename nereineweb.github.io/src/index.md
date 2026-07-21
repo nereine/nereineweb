@@ -72,7 +72,7 @@ Longer-form thinking on markets, technology, data and the systems connecting the
 
 Quantitative Research · 2022
 
-### [New World Order](/blog/nwo/)
+### [Counter-Perspective: The New World Order as Observable Global Governance](/blog/nwo/)
 
 Markets and Society · 2021
 
