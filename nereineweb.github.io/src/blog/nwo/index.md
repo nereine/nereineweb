@@ -1,9 +1,18 @@
 10 June [2021](/blog/2021/)
-# New World Order(ทฤษฎีสมคบคิด)
-คำสั่งโลกใหม่ หรือ New World Order (NWO) ซึ่งเป็นทฤฎีสมคบคิดภายใต้สมมติฐานที่ว่า ในโลกนี้มีรัฐบาลที่รวมอำนาจเบ็ดเสร็จอยู่ไว้แล้วเพียงหนึ่งเดียว
+# Counter-Perspective: The New World Order as Observable Global Governance (last edited: 07.21.2026)
 
-โดยแนวคิดหลัก ๆ ของทฤษฎีสมคบคิดนี้ จะเป็นเกี่ยวกับรัฐบาลลับ (Shadow Government) ที่มีเป้าหมายที่จะควบคุมทุกสรรพสิ่ง ผ่านรัฐบาลที่มีแนวคิดอำนาจนิยม 
+An opposing perspective argues that dismissing the entire concept of a New World Order as merely a conspiracy theory may be overly simplistic. Although there is no conclusive evidence that a single secret government controls every global event, several developments commonly associated with the NWO narrative—such as transnational policymaking, coordination between central banks, public–private governance and expanding state surveillance—are observable and well documented.
 
-รัฐบาลที่ว่าจะมาแทนที่รัฐต่าง ๆ ในโลก ซึ่งทำได้โดยการกระจาย Propaganda ที่ให้ความสำคัญกับการมี One World Government
+Slaughter (2004), for example, argues that contemporary global governance already operates through extensive networks of government officials, regulators, judges and law-enforcement agencies that exchange information and coordinate policies across national borders. This system is not a formal world government, but it represents a form of governance in which decisions are increasingly made through international networks rather than exclusively within individual nation-states.
 
-เหล่าคนดัง และคนมีอิทธิพล ช่ือเสียง ทั้งในประวัติศาสตร์ และปัจจุบันหลายคน ได้ถูกกล่าวหาว่ามีส่วนเกี่ยวของกับแนวคิดดังกล่าว และคนเหล่านั้นมักจะถูกกล่าวหาว่าพวกเขาได้ใช้อำนาจในการชักใยและควบคุมเหตุการณ์สำคัญต่าง ๆ ที่เกิดขึ้นทั่วโลก
+Major crises also demonstrate how international coordination can expand institutional authority. Following the 2008 Global Financial Crisis, central banks coordinated liquidity provision, established international currency-swap arrangements and developed common regulatory standards through institutions such as the Bank for International Settlements (Caruana, 2012). Similarly, following the 9/11 attacks, governments significantly expanded their surveillance and counterterrorism powers. The Privacy and Civil Liberties Oversight Board subsequently documented the National Security Agency’s large-scale collection of telephone metadata under Section 215 of the USA PATRIOT Act (PCLOB, 2014). These cases demonstrate that crises can accelerate policy convergence, institutional cooperation and the concentration of governmental power.
+
+More critically, Chimni (2004) argues that the expanding network of international economic, political and social institutions resembles a developing global state that disproportionately advances the interests of powerful states and a transnational capitalist class. From this perspective, the “New World Order” does not necessarily refer to a small group secretly meeting in one location. Instead, it may describe the gradual development of an interconnected system in which governments, financial institutions, multinational corporations and international organisations increasingly influence national policies beyond direct democratic control.
+
+Therefore, the observable element of the NWO argument concerns the structural concentration and internationalisation of power. Governments and powerful institutions do coordinate their responses, adopt common standards and sometimes use crises to introduce policies that would have previously encountered greater resistance. However, evidence of coordination after a crisis does not by itself prove that the crisis was deliberately created, nor does it establish the existence of a single organisation controlling every event. The strongest counterargument is consequently that the NWO may be interpreted as an emerging system of networked global governance, rather than as an all-powerful secret conspiracy.
+
+## References
+Caruana, J. (2012) ‘Central bank cooperation: reflections on the experience of the last eight decades’, Bank for International Settlements, 24 July. Available at: Bank for International Settlements (Accessed: 19 July 2026).
+Chimni, B.S. (2004) ‘International institutions today: An imperial global state in the making’, European Journal of International Law, 15(1), pp. 1–37. Available at: Oxford Academic.
+Privacy and Civil Liberties Oversight Board (PCLOB) (2014) Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act and on the Operations of the Foreign Intelligence Surveillance Court. Available at: PCLOB.
+Slaughter, A.-M. (2004) A New World Order. Princeton, NJ: Princeton University Press. Available at: JSTOR.
