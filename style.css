@@ -165,7 +165,13 @@ main > h2 {
   letter-spacing: -0.035em;
 }
 
-main > h2::before {
+/*
+ * Section labels belong to the homepage only. The homepage begins with an
+ * introductory paragraph followed by its H1; article pages begin directly
+ * with their title. Scoping the labels to that structure prevents labels such
+ * as "01 / Profile" from appearing in blog posts.
+ */
+main:has(> p:first-child + h1) > h2::before {
   display: block;
   margin-bottom: 20px;
   color: #5688a9;
@@ -174,10 +180,10 @@ main > h2::before {
   text-transform: uppercase;
 }
 
-main > h2:nth-of-type(1)::before { content: "01 / Profile"; }
-main > h2:nth-of-type(2)::before { content: "02 / Portfolio"; }
-main > h2:nth-of-type(3)::before { content: "03 / Writing"; }
-main > h2:nth-of-type(4)::before { content: "04 / Connect"; }
+main:has(> p:first-child + h1) > h2:nth-of-type(1)::before { content: "01 / Profile"; }
+main:has(> p:first-child + h1) > h2:nth-of-type(2)::before { content: "02 / Portfolio"; }
+main:has(> p:first-child + h1) > h2:nth-of-type(3)::before { content: "03 / Writing"; }
+main:has(> p:first-child + h1) > h2:nth-of-type(4)::before { content: "04 / Connect"; }
 
 main > h3 {
   margin: 42px 0 10px;

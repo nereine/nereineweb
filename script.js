@@ -28,3 +28,11 @@ document.querySelectorAll('.reveal').forEach((element) => observer.observe(eleme
 
 const year = document.querySelector('#year');
 if (year) year.textContent = new Date().getFullYear();
+
+const isHomePage =
+  window.location.pathname === "/" ||
+  window.location.pathname === "/index.html";
+
+if (isHomePage) {
+  document.body.classList.add("home-page");
+}
